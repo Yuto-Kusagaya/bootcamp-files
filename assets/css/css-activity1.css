@@ -1,0 +1,28 @@
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+thead {
+    color: white;
+}
+
+.image {
+    width: 10%;
+    height: 10%;
+}
+
+.red {
+    background-color: salmon;
+}
+.orange {
+    background-color: orange;
+}
+.white {
+    background-color: white;
+}
+
+.blue {
+    color: blue;
+}
